@@ -1,2 +1,2 @@
 # 1-Physics
-Contains some phisics stuff
+Contains some physics stuff
