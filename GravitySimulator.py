@@ -108,3 +108,4 @@ LAMBD2 = Obj((5e7,0,0), 10e20, (0,1e3,-5e3), 5e5, {"color" : vector(1,0,0), "mak
 # LAMBDA = Obj((-1e8,0,0), 10e22, (0,0,5e3), 3e6, {"color" : vector(0,1,0), "make_trail":True})
 
 if __name__ == "__main__":
+    main()

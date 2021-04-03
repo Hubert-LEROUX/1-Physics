@@ -49,7 +49,7 @@ plt.legend(loc="best")  # Légende
 plt.title("Triangulation")  # Title
 plt.grid(linestyle="-")
 plt.show()  # Affiche
-=======
+
 import matplotlib.pyplot as plt
 
 VITESSTE_ONDES_P = 6e3  # 6 km par secondes
